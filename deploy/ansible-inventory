@@ -1,0 +1,2 @@
+[tomcatServer]
+webserver ansible_ssh_host=34.246.200.115 ansible_user=meme ansible_password=Letitbe123!
