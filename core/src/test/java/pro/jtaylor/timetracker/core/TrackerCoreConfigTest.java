@@ -25,5 +25,9 @@ public class TrackerCoreConfigTest {
     public void testMe() {
         assertNotNull(entries);
     }
+    @Test
+    public void FailTheTest() {
+        assertNull(entries);
+    }
 
 }
